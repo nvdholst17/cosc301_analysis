@@ -1,2 +1,3 @@
-# cosc301_analysis
+# COSC 301 - Analysis Project
+
 Formula 1 Analysis
