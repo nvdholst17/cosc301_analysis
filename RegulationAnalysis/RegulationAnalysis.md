@@ -10,7 +10,7 @@ Before this change, 1st place to 8th place got 10, 8, 6, 5, 4, 3, 2, 1 points re
 
 After 2010, 1st place to 10th place got 25, 18, 15, 12, 10, 8, 6, 4, 2, 1 points respectively.
 
-This change is very clear in the graph below.
+This change is very clear in the graph below, the dotted line marks the year 2010.
 
 ![All years, this shows that in 2010, the point system changed as overall points has a large increase](Images/All_Years_Point_regulation_Change.png)
 
@@ -42,4 +42,6 @@ For this analysis I will be looking at the history of the constructors that exis
     <td><img src="Images/All_Years_Haas.png" width="100%"></td>
   </tr>
 </table>
+
+Let us look at a few specific teams that have noticeable impacts on their cars after the regulation change.
 
