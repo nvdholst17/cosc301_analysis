@@ -1,11 +1,8 @@
 # Data acquisition/loading
 
     https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
-    
 
-    Dataset link + license/terms
-
-    Reproducible download/API steps
+    Download the dataset as a ZIP file or follow the instructions on Kaggle to download via the command line
 
 # ETL / cleaning
 
@@ -15,6 +12,8 @@
 
 # Storage of cleaned data
 
+    We stored the data in a MySQL database, you can create the database using the following schema file: [Formula 1 Schema](./formula1Schema.sql)
+    
     Store cleaned dataset in database tables or well-structured files (e.g., CSV/Parquet)
 
     Must be loadable/queryable for analysis
