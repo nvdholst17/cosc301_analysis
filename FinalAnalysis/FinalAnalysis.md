@@ -44,7 +44,7 @@ We had three analytic questions we wanted to answer.
 
 ## Q2: How well does each constructor perform on average at specific circuits: Do specific constructors perform better or worse at certain circuits. We can determine this by comparing the average lap times between constructors.
 
-[Pit Stop Analysis](../CircuitAnalysis/CircuitAnalysis.md)
+[Circuit Analysis](../CircuitAnalysis/CircuitAnalysis.md)
 
 ## Q3: regulation change effects: When Formula 1 gets regulation change, how does it affect outcomes: which constructors improve performance, which lose performance. The years when there was a regulation change were 1983, 1994, 1998, 2005, 2009, 2014, 2017, and 2022.
 
