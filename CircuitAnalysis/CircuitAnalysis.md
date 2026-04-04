@@ -9,8 +9,8 @@ The analytical question proposed here is:
 
 <table>
   <tr>
-    <td><img src="Images/1-1.png" width="100%"></td>
-    <td><img src="Images/1-2.png" width="100%"></td>
+    <td><img src="images/1-1.png" width="100%"></td>
+    <td><img src="images/1-2.png" width="100%"></td>
   </tr>
 </table>
 
@@ -20,8 +20,8 @@ As we can see from the two scatter plots avobe, there are circuit dependence and
 
 <table>
   <tr>
-    <td><img src="Images/2-1.png" width="100%"></td>
-    <td><img src="Images/2-2.png" width="100%"></td>
+    <td><img src="images/2-1.png" width="100%"></td>
+    <td><img src="images/2-2.png" width="100%"></td>
   </tr>
 </table>
 
@@ -31,8 +31,8 @@ Since there are 212 different constructors, 2 of them were chosen for example. F
 
 <table>
   <tr>
-    <td><img src="Images/3-1.png" width="100%"></td>
-    <td><img src="Images/3-2.png" width="100%"></td>
+    <td><img src="images/3-1.png" width="100%"></td>
+    <td><img src="images/3-2.png" width="100%"></td>
   </tr>
 </table>
 
@@ -43,20 +43,20 @@ On the other hand, Circuit de Spa-Francorchamps and Autodromo internazionale del
 
 <table>
   <tr>
-    <td><img src="Images/4-1.png" width="100%"></td>
-    <td><img src="Images/4-2.png" width="100%"></td>
+    <td><img src="images/4-1.png" width="100%"></td>
+    <td><img src="images/4-2.png" width="100%"></td>
   </tr>
   <tr>
-    <td><img src="Images/4-3.png" width="100%"></td>
-    <td><img src="Images/4-3.5.png" width="100%"></td>
+    <td><img src="images/4-3.png" width="100%"></td>
+    <td><img src="images/4-3.5.png" width="100%"></td>
   </tr>
   <tr>
-    <td><img src="Images/4-4.png" width="100%"></td>
-    <td><img src="Images/4-5.png" width="100%"></td>
+    <td><img src="images/4-4.png" width="100%"></td>
+    <td><img src="images/4-5.png" width="100%"></td>
   </tr>
   <tr>
-    <td><img src="Images/4-6.png" width="100%"></td>
-    <td><img src="Images/4-7.png" width="100%"></td>
+    <td><img src="images/4-6.png" width="100%"></td>
+    <td><img src="images/4-7.png" width="100%"></td>
   </tr>
 </table>
 
