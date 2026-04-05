@@ -4,6 +4,8 @@ https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
 
 License: CC0: Public Domain
 
+This dataset is a collection of Formula 1 data from 1950-2024. It contains all constructors(teams), drivers, circuits, race results(i.e. driver and team results), pit-stop times, and lap times for each year.
+
 Download the dataset as a ZIP file or follow the instructions on Kaggle to download via the command line
 
 You can also locate all CSVs in the following [folder](./Files/CSV)
