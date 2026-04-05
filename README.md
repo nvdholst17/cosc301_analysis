@@ -1,5 +1,7 @@
 # COSC 301 - Analysis Project
 
+[FINAL REPORT](https://github.com/nvdholst17/cosc301_analysis/blob/main/FinalAnalysis/COSC%20301%20Final%20Analysis%20Report.pdf)
+
 To recreate all the analysis, you need to do the following:
 
 - Download the dataset from Kaggle at https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
