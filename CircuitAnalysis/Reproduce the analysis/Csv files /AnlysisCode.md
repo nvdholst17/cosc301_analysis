@@ -15,3 +15,5 @@ The analytical question proposed here is:
 
 ### 4. Update the path to csv files defined in the NoteBook downloaded
 
+The data cleaning and organization part was done using MySQL workbench. Csv files generated there and used in the later analysis can be found in the repository (under CircuitAnalysis -> Reproduce the analysis). However, MySQL_datacleaning.sql file can used as a reference and can be reproduced by downloading the file with the formula1 schema.
+
