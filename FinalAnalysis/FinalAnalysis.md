@@ -46,6 +46,6 @@ We had three analytic questions we wanted to answer.
 
 [Circuit Analysis](../CircuitAnalysis/CircuitAnalysis.md)
 
-## Q3: regulation change effects: When Formula 1 gets regulation change, how does it affect outcomes: which constructors improve performance, which lose performance. The years when there was a regulation change were 1983, 1994, 1998, 2005, 2009, 2014, 2017, and 2022.
+## Q3: Regulation change effects: When Formula 1 gets regulation change, how does it affect outcomes: which constructors improve performance, which lose performance. The years when there was a regulation change were 1983, 1994, 1998, 2005, 2009, 2014, 2017, and 2022.
 
 [Regulation Analysis](../RegulationAnalysis/RegulationAnalysis.md)
