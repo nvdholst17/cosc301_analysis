@@ -5,7 +5,7 @@
 The analytical question proposed here is: 
  How well does each constructor perform on average at specific circuits: Do specific constructors perform better or worse at certain circuits? We can determine this by comparing the average lap times between constructors. (Q2 on the project proposal )
 
-## 1. General analysis: Average lap time fo each circuit and constructor
+## 1. General analysis: Average lap time for each circuit and constructor
 
 <table>
   <tr>
@@ -38,7 +38,7 @@ Since there are 212 different constructors, two of them were chosen as examples.
 
 Red Bull Ring has the shortest average lap time for most constructors, which means it tends to perform the best with various constructors. On the other hand, Circuit de Spa-Francorchamps and Autodromo Internazionale del Mugello seem to have the longest average lap times for many constructors.
 
-## 4. Difference between the best peformance circuit and the worst peformance circuit
+## 4. Difference between the best performance circuit and the worst performance circuit
 
 <table>
   <tr>
