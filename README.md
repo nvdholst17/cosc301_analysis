@@ -31,6 +31,14 @@ NOTES:
 - "Lotus" and "Lotus F1" are the same team under different name strings in the dataset, same with "Renault" and "Alpine F1 Team"
 
 ## How to recreate Q2
+The same information can be found in AnalysisCode.md as well
+
+To perform the same analysis 
+1. Download the Google Colab NoteBook from the repository 
+2. Download the csv files from the repository
+3. Save the same files and the NoteBook (from 1 and 2) in the Google Drive
+4. Save the copy of the Colab NoteBook
+4. Update the path to csv files defined inside the copied NoteBook 
 
 ## How to recreate Q3
 
