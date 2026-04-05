@@ -56,7 +56,7 @@ Next we'll inspect the constructor average pit stop performance closer by lookin
 
 The following results are shown as a heatmap, the green represents lower stop average (faster) and red represents higher stop average (slower). The heat map gives us a look at which teams are faster (column comparison) and how performance changes over time (row comparison)
 
-![F1 Individual Constructor Pit Stop Performance](Images/Q4-ConstrPerformance.jpg)
+![F1 Individual Constructor Pit Stop Performance](Images/Q6-ConstrIndiv.jpg)
 The heatmap indicates a few trends:
 
 - Analyzing constructors (rows), we see that Red Bull, Mercedes, Ferrari are the fastest and most consistent.
@@ -64,7 +64,7 @@ The heatmap indicates a few trends:
 - In 2011: Red Bull was leading, in 2024: McLaren was leading. Rankings show that exceeding in pit stop performance is not a permanent factor, performance will fluctuate.
 
 <div style="display: flex; gap: 20px;">
-  <img src="Images/Q4-ConstrPerformance.jpg" width="48%">
+  <img src="Images/Q6-ConstrIndiv.jpg" width="48%">
   <img src="Images/Q2-PitStopLineChart.jpg" width="48%">
 </div>
 
@@ -88,7 +88,7 @@ What we can takeaway is that the constructor rankings and results we analyzed me
 
 
 
-## Conclusion on Research Question #2: 
+## Conclusion on Research Question #1: 
 ## How do pit stop times vary between constructors and years?
 
 Evidence concludes that constructor abilities and year regulations matter in the duration of pit stops. The fastest average was 23.284 seconds in 2012, while the slowest was 2015 at 25.500 seconds. This 2.2 second difference was not driven by team performance, but by regulatory changes. 
