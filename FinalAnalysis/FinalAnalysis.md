@@ -6,6 +6,8 @@ License: CC0: Public Domain
 
 Download the dataset as a ZIP file or follow the instructions on Kaggle to download via the command line
 
+You can also locate all CSVs in the following [folder](./Files/CSV)
+
 # ETL / cleaning
 
 We cleaned the data by truncating it during the creation of our database.
@@ -38,14 +40,14 @@ The main insight we had was that the earlier years (1950 - 1990) do not have as 
 
 We had three analytic questions we wanted to answer.
 
-## Q1: How do pit stop times vary between constructors and years: How do pit stop timings differ between constructors and how much has changed over the years. We need to keep in mind that from 2010 to now, Formula 1 removed the need to refuel during the race, this significantly reduced pit-stop time.
+## Q1: How do pit stop times vary between constructors and years?
 
 [Pit Stop Analysis](../PitStopAnalysis/PitStopAnalysis.md)
 
-## Q2: How well does each constructor perform on average at specific circuits: Do specific constructors perform better or worse at certain circuits. We can determine this by comparing the average lap times between constructors.
+## Q2: How well does each constructor perform on average at specific circuits?
 
 [Circuit Analysis](../CircuitAnalysis/CircuitAnalysis.md)
 
-## Q3: Regulation change effects: When Formula 1 gets regulation change, how does it affect outcomes: which constructors improve performance, which lose performance. The years when there was a regulation change were 1983, 1994, 1998, 2005, 2009, 2014, 2017, and 2022.
+## Q3: How do regulation changes affect constructor performance?
 
 [Regulation Analysis](../RegulationAnalysis/RegulationAnalysis.md)
