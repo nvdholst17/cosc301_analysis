@@ -14,7 +14,7 @@ To recreate all the analysis, you need to do the following:
 
 ## How to recreate Q2
 
-1. Download the [Google Colab NoteBook](CircuitAnalysis/Q2_colab.ipynb)
+1. Download the [Google Colab NoteBook](CircuitAnalysis/Reproduce%20the%20analysis/Q2_colab.ipynb)
 
 3. Save the dataset files (CSV from Kaggle) and the NoteBook in Google Drive
 
