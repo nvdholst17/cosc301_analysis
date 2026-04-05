@@ -88,7 +88,7 @@ What we can takeaway is that the constructor rankings and results we analyzed me
 
 
 
-## Conclusion on Research Question #2: 
+## Conclusion on Research Question #1: 
 ## How do pit stop times vary between constructors and years?
 
 Evidence concludes that constructor abilities and year regulations matter in the duration of pit stops. The fastest average was 23.284 seconds in 2012, while the slowest was 2015 at 25.500 seconds. This 2.2 second difference was not driven by team performance, but by regulatory changes. 
