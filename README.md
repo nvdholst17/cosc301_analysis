@@ -2,7 +2,7 @@
 
 Formula 1 Analysis:
 To be able to recreate our analysis you must have the following:
-- Our provided *pitstop_analysis.sql* file
+- Our provided [MySQL Formula 1 Schema](FinalAnalysis/Files/formula1Schema.sql) file
 - MySQL Workbench with the formula1 database loaded
 - Tableau Desktop
 
