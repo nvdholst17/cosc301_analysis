@@ -1,6 +1,6 @@
 # Circuit Analysis
 
-## Effect of different circuts on Constructors based on laptime a erage
+## Effect of different circuits on constructors based on lap time average
 
 The analytical question proposed here is: 
  How well does each constructor perform on average at specific circuits: Do specific constructors perform better or worse at certain circuits? We can determine this by comparing the average lap times between constructors. (Q2 on the project proposal )
@@ -16,7 +16,7 @@ The analytical question proposed here is:
 
 As we can see from the two scatter plots above, there is both circuit dependence and constructor dependence on the average lap time.
 
-## 2.Average lap time on each circuit for a specific constructor
+## 2.Average lap time on each circuit for a specific constructors
 
 <table>
   <tr>
