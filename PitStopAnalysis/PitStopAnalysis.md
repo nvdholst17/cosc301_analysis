@@ -56,7 +56,7 @@ Next we'll inspect the constructor average pit stop performance closer by lookin
 
 The following results are shown as a heatmap, the green represents lower stop average (faster) and red represents higher stop average (slower). The heat map gives us a look at which teams are faster (column comparison) and how performance changes over time (row comparison)
 
-![F1 Individual Constructor Pit Stop Performance](Images/Q4-ConstrPerformance.jpg)
+![F1 Individual Constructor Pit Stop Performance](Images/Q6-ConstrIndiv.jpg)
 The heatmap indicates a few trends:
 
 - Analyzing constructors (rows), we see that Red Bull, Mercedes, Ferrari are the fastest and most consistent.
@@ -64,7 +64,7 @@ The heatmap indicates a few trends:
 - In 2011: Red Bull was leading, in 2024: McLaren was leading. Rankings show that exceeding in pit stop performance is not a permanent factor, performance will fluctuate.
 
 <div style="display: flex; gap: 20px;">
-  <img src="Images/Q4-ConstrPerformance.jpg" width="48%">
+  <img src="Images/Q6-ConstrIndiv.jpg" width="48%">
   <img src="Images/Q2-PitStopLineChart.jpg" width="48%">
 </div>
 
